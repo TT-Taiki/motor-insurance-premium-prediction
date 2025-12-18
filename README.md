@@ -8,3 +8,5 @@ by underwriting and pricing teams. The primary evaluation metric is MAE.
 - `docs/` : business brief, assumptions, decision log
 - `slides/` : presentation materials
 - `data/` : dataset notes (raw data is not shared)
+
+Project Setup starts!
